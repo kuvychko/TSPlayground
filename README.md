@@ -86,5 +86,4 @@ The solver provides:
 ## Requirements
 
 - Windows OS
-- .NET 8 Runtime
-- Google OR-tools package 
+
