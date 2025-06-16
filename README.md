@@ -1,8 +1,10 @@
-# TSP Visualizer
+# TSPlayground
 
 A Windows application built with WPF (.NET 8) that visualizes the Traveling Salesman Problem (TSP) and its solutions. 
 The application provides an interactive interface for generating random city distributions, solving TSP instances, 
 and visualizing the results.
+
+![TSP Visualizer Application](TSPlayground.png)
 
 ## Features
 
